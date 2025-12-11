@@ -2,6 +2,10 @@
 
 A PyTorch implementation of β-Variational Autoencoder (β-VAE) for learning interpretable and disentangled latent representations. This implementation allows you to train models that separate underlying factors of variation in your data.
 
+## Resources
+
+- **Webpage**: [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://beta-vae-tutorial.vercel.app/)
+
 ## 📋 Overview
 
 β-VAE extends the standard VAE by introducing a hyperparameter β that controls the trade-off between reconstruction quality and disentanglement in the latent space. Higher β values encourage more disentangled representations, where individual latent dimensions correspond to independent factors of variation.
