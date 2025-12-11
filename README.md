@@ -5,7 +5,7 @@ A PyTorch implementation of β-Variational Autoencoder (β-VAE) for learning int
 ## Resources
 
 - **Webpage**: [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://beta-vae-tutorial.vercel.app/)
-- **Dataset**: [CelebA]([https://beta-vae-tutorial.vercel.app/](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+- **Dataset**: [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 
 ## 📋 Overview
